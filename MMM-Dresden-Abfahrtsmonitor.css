@@ -1,0 +1,24 @@
+.MMM-Dresden-Abfahrtsmonitor .logo {
+    margin-right: 5px;
+}
+
+.MMM-Dresden-Abfahrtsmonitor .centered {
+    text-align: center;
+}
+
+.MMM-Dresden-Abfahrtsmonitor .table {
+    border-spacing: 10px 0px;
+    border-collapse: separate;
+}
+
+.MMM-Dresden-Abfahrtsmonitor .table tr.red {
+    color: #FF8E99;
+}
+
+.MMM-Dresden-Abfahrtsmonitor .table tr.orange {
+    color: #FF9859;
+}
+
+.MMM-Dresden-Abfahrtsmonitor .table tr.green {
+    color: #90F487;
+}

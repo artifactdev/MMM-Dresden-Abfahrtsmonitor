@@ -1,0 +1,26 @@
+{
+  "name": "MMM-Dresden-Abfahrtsmonitor",
+  "version": "1.0.0",
+  "description": "Public Transport of Dresden Module for MagicMirror2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fewieden/MMM-Dresden-Abfahrtsmonitor.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "Vienna",
+    "Wien",
+    "Public Transport",
+    "ÖPNV"
+  ],
+  "author": "fewieden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fewieden/MMM-Dresden-Abfahrtsmonitor/issues"
+  },
+  "homepage": "https://github.com/fewieden/MMM-Dresden-Abfahrtsmonitor#readme",
+  "dependencies": {
+    "request": "^2.74.0",
+    "dvbjs": "latest"
+  }
+}
